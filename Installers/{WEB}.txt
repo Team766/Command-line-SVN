@@ -1,0 +1,7 @@
+https://svnbook.red-bean.com/
+
+https://subversion.apache.org/download.cgi
+
+https://www.visualsvn.com/downloads/
+
+https://tortoisesvn.net/downloads.html
